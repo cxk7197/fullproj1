@@ -1,0 +1,18 @@
+{
+  "name": "carly-api-proj1",
+  "version": "1.0.0",
+  "description": "\"my proj1\"",
+  "main": "/c/Users/Carly/Documents/590-Cody/carly-api-proj1/src/server.js",
+ "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Tests complete\""
+  },
+  "author": "carly kraft",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
